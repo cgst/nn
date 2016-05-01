@@ -1,0 +1,8 @@
+gensim
+keras
+spacy
+pandas
+bpython
+pydot2
+graphviz
+h5py
